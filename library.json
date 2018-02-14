@@ -5,7 +5,7 @@
 	"url": "www.ip-symcon.de",
 	"compatibility": {
 		"version": "100",
-		"date": 99999999999
+		"date": 2147483647
 	},
 	"version": "1.0",
 	"build": 0,
