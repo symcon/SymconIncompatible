@@ -1,0 +1,13 @@
+{
+	"id": "{227CE6E1-9F5E-488C-B875-44F3B2D529E7}",
+	"author": "Symcon GmbH",
+	"name": "Incompatible Modules",
+	"url": "www.ip-symcon.de",
+	"compatibility": {
+		"version": "100",
+		"date": 99999999999
+	},
+	"version": "1.0",
+	"build": 0,
+	"date": 0
+}
